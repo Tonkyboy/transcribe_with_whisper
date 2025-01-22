@@ -1,7 +1,7 @@
 # Here is the code used in my Youtube video About the Open AI Whisper Library
 
 # Video
-Video ist here, check it out!
+Video is here, check it out!
 [Automate Voice to Text & SRT Subtitles with OpenAI Whisper in Python (Step-by-Step Tutorial)](https://youtu.be/xi8NqNLR3zM)
 
 ## Basic Code
