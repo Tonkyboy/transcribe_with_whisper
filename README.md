@@ -2,7 +2,7 @@
 
 # Video
 Video is here, check it out!
-[Text)](https://youtu.be/xi8NqNLR3zM)
+[Automate Voice to Text & SRT Subtitles with OpenAI Whisper in Python (Step-by-Step Tutorial)](https://youtu.be/xi8NqNLR3zM)
 
 ## Basic Code
 -> whisper.py
